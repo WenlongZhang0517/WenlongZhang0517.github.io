@@ -1,11 +1,25 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Services
+# description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
 ---
+
+**Reviewer**
+* Computer Vision and Pattern Recognition (CVPR)
+* International Conference on Computer Vision (ICCV)
+* European Conference on Computer Vision (ECCV)
+* International Conference on Learning Representations (ICLR)
+* Advances in Neural Information Processing Systems (NeurIPS)
+* International Conference on Machine Learning (ICML)
+* AAAI Conference on Artificial Intelligence (AAAI), 2019-2022
+
+* IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+* IEEE Transactions on Geoscience and Remote Sensing (TGRS)
+<!-- International Joint Conferences on Artificial Intelligence (IJCAI), 2020-2024 -->
+<!-- ACM International Conference on Multimedia (ACM MM), 2021-2023 -->
 
 **Teaching Asisstant at HKPolyU**
 
