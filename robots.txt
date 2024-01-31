@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://WenlongZhang0517.github.io/sitemap.xml
+Sitemap: https://zhangwenlong.com/sitemap.xml
