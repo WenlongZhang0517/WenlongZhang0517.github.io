@@ -24,6 +24,6 @@ PhD student in CS, Department of Computing, **The Hong Kong Polytechnic Universi
 wenlong.zhang@connect.polyu.hk<br>
 [Google scholar](https://scholar.google.com.hk/citations?user=UnMImiUAAAAJ&hl=zh-CN) | [Github](https://github.com/WenlongZhang0517) | [Researchgate](https://www.researchgate.net/profile/Wenlong-Zhang-26)
 
-Wenlong is currently working as an AI4Earth Research Intern (Incoming Postdoc Researcher) with Prof. [Lei Bai](http://leibai.site/) and Prof. [Wanli Ouyang](https://wlouyang.github.io/) in Shanghai AI Lab. Before that, he was a Research Intern at XPixel group with Prof. [Chao Dong](https://scholar.google.com/citations?hl=zh-CN&user=OSDCB0UAAAAJ) and Prof. [Yu Qiao](http://mmlab.siat.ac.cn/team) in Shanghai AI Lab and SIAT-CAS. In 2018, he received the Master degree from the Beijing Institute of Technology.
+Wenlong is currently working as an AI4Earth Research Intern (Incoming Postdoc Researcher) with Prof. [Lei Bai](http://leibai.site/) and Prof. [Wanli Ouyang](https://wlouyang.github.io/) in Shanghai AI Lab. Before that, he was a Research Intern at [XPixel group](http://xpixel.group/) with Prof. [Chao Dong](https://scholar.google.com/citations?hl=zh-CN&user=OSDCB0UAAAAJ) and Prof. [Yu Qiao](http://mmlab.siat.ac.cn/team) in Shanghai AI Lab and SIAT-CAS. In 2018, he received the Master degree from the Beijing Institute of Technology.
 
 **Research interest**: Deep Learning, AI for Earth, Low-Level Vision
