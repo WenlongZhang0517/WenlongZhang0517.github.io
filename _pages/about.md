@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Research Intern, **Shanghai AI Lab**<br>
-PhD student in CS, Department of Computing, **The Hong Kong Polytechnic University**,Supervisor: Prof. [Xiao-Ming Wu](http://www4.comp.polyu.edu.hk/~csxmwu/)<br> 
+PhD student in CS, **The Hong Kong Polytechnic University**,Supervisor: Prof. [Xiao-Ming Wu](http://www4.comp.polyu.edu.hk/~csxmwu/)<br> 
 wenlong.zhang@connect.polyu.hk<br>
 [Google scholar](https://scholar.google.com.hk/citations?user=UnMImiUAAAAJ&hl=zh-CN) | [Github](https://github.com/WenlongZhang0517) | [Researchgate](https://www.researchgate.net/profile/Wenlong-Zhang-26)
 
