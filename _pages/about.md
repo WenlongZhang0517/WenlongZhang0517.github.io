@@ -19,12 +19,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Incoming Postdoc Researcher in AI4Science, **Shanghai AI Lab**<br>
+Postdoc Researcher (Incoming) in AI4Science, **Shanghai AI Lab**<br>
 PhD student in CS, **The Hong Kong Polytechnic University**<br> 
 wenlong.zhang@connect.polyu.hk<br>
 [Google scholar](https://scholar.google.com.hk/citations?user=UnMImiUAAAAJ&hl=zh-CN) | [Github](https://github.com/WenlongZhang0517) | [Researchgate](https://www.researchgate.net/profile/Wenlong-Zhang-26)
 
-I am a Research Intern (Incoming Postdoc Researcher), working with Prof. [Wanli Ouyang](https://wlouyang.github.io/) and [Lei Bai](http://leibai.site/)  in Shanghai AI Lab and PhD student working with Prof. [Xiao-Ming Wu](http://www4.comp.polyu.edu.hk/~csxmwu/). Before that, I was a Research Intern at [XPixel group](http://xpixel.group/) with Prof. [Chao Dong](https://scholar.google.com/citations?hl=zh-CN&user=OSDCB0UAAAAJ) and Prof. [Yu Qiao](http://mmlab.siat.ac.cn/team) in Shanghai AI Lab and SIAT-CAS. In 2018, I got the Master degree from the Beijing Institute of Technology, supervised by Prof. [Weidong Hu](https://ice.bit.edu.cn/szdw/jsfc/895feca632d747dc81769fbaf7be5ef5.htm).
+I am a Postdoc Researcher (Incoming), working with Prof. [Wanli Ouyang](https://wlouyang.github.io/) and [Lei Bai](http://leibai.site/)  in Shanghai AI Lab and PhD student working with Prof. [Xiao-Ming Wu](http://www4.comp.polyu.edu.hk/~csxmwu/). Before that, I was a Research Intern at [XPixel group](http://xpixel.group/) with Prof. [Chao Dong](https://scholar.google.com/citations?hl=zh-CN&user=OSDCB0UAAAAJ) and Prof. [Yu Qiao](http://mmlab.siat.ac.cn/team) in Shanghai AI Lab and SIAT-CAS. In 2018, I got the Master degree from the Beijing Institute of Technology, supervised by Prof. [Weidong Hu](https://ice.bit.edu.cn/szdw/jsfc/895feca632d747dc81769fbaf7be5ef5.htm).
 
 I am passionate about exploring advanced AI models to address challenges across large-scale (PB Level) Earth systems understanding and prediction. Recently, my primary areas of focus include:
 
