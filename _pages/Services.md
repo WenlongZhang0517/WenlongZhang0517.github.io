@@ -15,7 +15,9 @@ nav_order: 6
 * Advances in Neural Information Processing Systems (NeurIPS)
 * International Conference on Machine Learning (ICML)
 * AAAI Conference on Artificial Intelligence (AAAI)
-
+* International Joint Conferences on Artificial Intelligence (IJCAI)
+* Pattern Recognition and Computer Vision (PRCV)
+* 
 **Journal Reviewer**
 * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 * IEEE Transactions on Geoscience and Remote Sensing (TGRS)
