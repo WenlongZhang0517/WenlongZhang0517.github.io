@@ -29,6 +29,6 @@ I am a Postdoc Researcher (Incoming) at Shanghai AI Lab, working with Prof. [Wan
 I am passionate about exploring advanced AI models to address challenges across large-scale (PB Level) Earth systems understanding and prediction. Recently, my primary areas of focus include:
 
 * **AI for Earth Science**: Multi-source fusion precipitation prediction, Information generation, Downscaling<br> 
-* **Computer Vision**: Multi-modality learning, Generative Model, Image super-resolution, etc.
+* **Computer Vision**: Multi-task learning, Generative model, Image super-resolution, etc.
 
 If you are interested in the above research topics and would like to join us with research intern or [Joint Training Ph.D. Project](https://www.shlab.org.cn/enrollment) at Shanghai AI Lab, feel free to drop me an [email](zhangwenlong@pjlab.org.cn) zhangwenlong@pjlab.org.cn. Students with good foundations in AI background or Earth system forecasting are appreciated.
