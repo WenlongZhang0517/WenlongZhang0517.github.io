@@ -26,7 +26,7 @@ wenlong.zhang@connect.polyu.hk<br>
 
 I am a Postdoc Researcher (Incoming) at Shanghai AI Lab, working with Prof. [Wanli Ouyang](https://wlouyang.github.io/) and [Lei Bai](http://leibai.site/). I am a PhD student at Hong Kong Polytechnic University, working with Prof. [Xiao-Ming Wu](http://www4.comp.polyu.edu.hk/~csxmwu/). Before that, I was a Research Intern at [XPixel group](http://xpixel.group/) with Prof. [Chao Dong](https://scholar.google.com/citations?hl=zh-CN&user=OSDCB0UAAAAJ) and Prof. [Yu Qiao](http://mmlab.siat.ac.cn/team) in Shanghai AI Lab and SIAT-CAS. In 2018, I got the Master degree from the Beijing Institute of Technology, supervised by Prof. [Weidong Hu](https://ice.bit.edu.cn/szdw/jsfc/895feca632d747dc81769fbaf7be5ef5.htm).
 
-I am passionate about exploring advanced AI models to address challenges across large-scale (PB Level) Earth systems understanding and prediction. Recently, my primary areas of focus include:
+I am passionate about exploring advanced AI models to address challenges across large-scale Earth systems understanding and prediction. Recently, my primary areas of focus include:
 
 * **AI for Earth Science**: Multi-modal precipitation estimation, Climate information generation, Downscaling<br> 
 * **Computer Vision**: Multi-modal learning, Generative model, Image super-resolution, etc.
