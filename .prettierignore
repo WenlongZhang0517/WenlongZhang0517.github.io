@@ -3,3 +3,8 @@
 assets/css/main.scss
 assets/plotly/demo.html
 lighthouse_results/**
+
+_config.yml
+_data/coauthors.yml
+_pages/about.md
+_pages/Services.md
