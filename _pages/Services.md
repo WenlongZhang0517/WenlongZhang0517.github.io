@@ -7,11 +7,11 @@ nav: true
 nav_order: 6
 ---
 
-**Awards**
+<!-- **Awards**
 * 国家级海外高层次引进人才
 * 上海市海外高层次引进人才
 * 上海市“超级博士后”
-* 中国博士后科学基金第76批面上项目
+* 中国博士后科学基金第76批面上项目 -->
 
 **Conference Reviewer**
 * Computer Vision and Pattern Recognition (CVPR)
