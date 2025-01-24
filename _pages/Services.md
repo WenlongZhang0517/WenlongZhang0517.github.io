@@ -7,6 +7,12 @@ nav: true
 nav_order: 6
 ---
 
+**主持项目**
+* 国家级海外高层次引进人才项目
+* 上海市海外高层次引进人才项目
+* 上海市“超级博士后”项目
+* 中国博士后科学基金第76批面上项目
+
 **Conference Reviewer**
 * Computer Vision and Pattern Recognition (CVPR)
 * International Conference on Computer Vision (ICCV)
@@ -31,4 +37,3 @@ nav_order: 6
 * COMP5221: Software Project Management (Master Course)
 * COMP5523: Computer Vision and Image Processing (Master Course)
 
-**主持项目**
