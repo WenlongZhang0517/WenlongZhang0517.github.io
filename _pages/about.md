@@ -20,13 +20,13 @@ social: true # includes social icons at the bottom of the page PhD student in CS
 
 ---
 
-Postdoc Researcher in AI4Science, **Shanghai AI Lab**<br>
+Young Researcher in AI4Science, **Shanghai AI Lab**<br>
 zhangwenlong@pjlab.org.cn<br>
 [Google scholar](https://scholar.google.com.hk/citations?user=UnMImiUAAAAJ&hl=zh-CN) | [Github](https://github.com/WenlongZhang0517) | [Researchgate](https://www.researchgate.net/profile/Wenlong-Zhang-26)
 
-I am a Postdoc Researcher with [OpenScienceLab](https://science.openxlab.org.cn/) at Shanghai AI Lab, working with Prof. [Wanli Ouyang](https://wlouyang.github.io/) and Prof. [Lei Bai](http://leibai.site/). Before that, I got the PhD degree from Hong Kong Polytechnic University, working with Prof. [Xiao-Ming Wu](http://www4.comp.polyu.edu.hk/~csxmwu/). I also interned at [XPixel group](http://xpixel.group/) in Shanghai AI Lab and SIAT-CAS, working with Prof. [Chao Dong](https://scholar.google.com/citations?hl=zh-CN&user=OSDCB0UAAAAJ) and Prof. [Yu Qiao](http://mmlab.siat.ac.cn/team). In 2018, I got the Master degree from the Beijing Institute of Technology, supervised by Prof. [Weidong Hu](https://ice.bit.edu.cn/szdw/jsfc/895feca632d747dc81769fbaf7be5ef5.htm).
+I am a Young Researcher with [OpenScienceLab](https://science.openxlab.org.cn/) at Shanghai AI Lab, working with Prof. [Wanli Ouyang](https://wlouyang.github.io/) and Prof. [Lei Bai](http://leibai.site/). Before that, I got the PhD degree from Hong Kong Polytechnic University, working with Prof. [Xiao-Ming Wu](http://www4.comp.polyu.edu.hk/~csxmwu/). I also interned at [XPixel group](http://xpixel.group/) in Shanghai AI Lab and SIAT-CAS, working with Prof. [Chao Dong](https://scholar.google.com/citations?hl=zh-CN&user=OSDCB0UAAAAJ) and Prof. [Yu Qiao](http://mmlab.siat.ac.cn/team). In 2018, I got the Master degree from the Beijing Institute of Technology, supervised by Prof. [Weidong Hu](https://ice.bit.edu.cn/szdw/jsfc/895feca632d747dc81769fbaf7be5ef5.htm).
 
-I am passionate about exploring advanced AI models to address challenges across large-scale Earth systems understanding. Recently, my primary areas of focus include:
+I am passionate about exploring advanced AGI models to address challenges across large-scale scientific scenario. Recently, my primary areas of focus include:
 
 * **AI for Earth Science**: Larger earth foundation model, Multi-modal weather generation and understanding<br> 
 * **Computer Vision**: Multi-modal image generation, Image restoration and super-resolution
