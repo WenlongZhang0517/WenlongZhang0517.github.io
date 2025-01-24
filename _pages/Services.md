@@ -30,3 +30,5 @@ nav_order: 6
 * COMP2121: E-Business (Undergraduate Course)
 * COMP5221: Software Project Management (Master Course)
 * COMP5523: Computer Vision and Image Processing (Master Course)
+
+**主持项目**
