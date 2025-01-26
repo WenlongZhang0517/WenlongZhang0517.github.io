@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One papers were accepted by **EMNLP2024**.
+One papers were accepted by **EMNLP2024**. One papers were accepted by **NeurIPS**.
