@@ -29,7 +29,7 @@ I am passionate about exploring advanced AGI models to address challenges across
 - `Large foundation model`: Developing general foundational models for the unified representation and processing of large-scale data and tasks in earth science.
 - `Multimodel learning`: Building scientifical multimodal data and models for knowledge understanding.
 - `LLM-based multi-agent`: Creating efficient LLM-based multi-agent systems for knowledge discovery.
-- `Generative models`: Aiming to combine multi-source data and physical law for more powerful scientific data synthesis.
+- `Generative models`: Aiming to combine multi-source data and physical law for powerful scientific data synthesis.
 
 <!-- * **AI for Earth Science**: Larger earth foundation model, Multi-modal weather generation and understanding<br> 
 * **Computer Vision**: Multi-modal image generation, Image restoration and super-resolution -->
