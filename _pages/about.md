@@ -25,11 +25,11 @@ zhangwenlong@pjlab.org.cn<br>
 
 I am a Young Researcher with [OpenScienceLab](https://science.openxlab.org.cn/) at Shanghai AI Lab, working with Prof. [Wanli Ouyang](https://wlouyang.github.io/) and Prof. [Lei Bai](http://leibai.site/). Before that, I got the PhD degree from Hong Kong Polytechnic University, working with Prof. [Xiao-Ming Wu](http://www4.comp.polyu.edu.hk/~csxmwu/). I also interned at [XPixel group](http://xpixel.group/) in Shanghai AI Lab and SIAT-CAS, working with Prof. [Chao Dong](https://scholar.google.com/citations?hl=zh-CN&user=OSDCB0UAAAAJ) and Prof. [Yu Qiao](http://mmlab.siat.ac.cn/team). In 2018, I got the Master degree from the Beijing Institute of Technology, supervised by Prof. [Weidong Hu](https://ice.bit.edu.cn/szdw/jsfc/895feca632d747dc81769fbaf7be5ef5.htm).
 
-I am passionate about exploring advanced AGI models to address challenges across large-scale scientific scenario. Recently, my primary areas of focus include:
-- `Large foundation model`: Developing general foundational models for the unified representation and processing of large-scale data and tasks in earth science.
-- `Multimodel learning`: Building scientifical multimodal data and models for knowledge understanding.
-- `LLM-based multi-agent`: Creating efficient LLM-based multi-agent systems for knowledge discovery.
-- `Generative models`: Aiming to combine multi-source data and physical law for powerful scientific data synthesis.
+I am passionate about exploring advanced AGI model to address challenges across large-scale scientific scenario. Recently, my primary areas of focus include:
+- `Large foundation model`: Developing general foundational model for the unified representation and processing of large-scale data and tasks in earth science.
+- `Multimodel learning`: Building scientifical multimodal data and model for knowledge understanding.
+- `LLM-based multi-agent`: Creating efficient LLM-based multi-agent system for knowledge discovery.
+- `Generative model`: Aiming to combine multi-source data and physical law for powerful scientific data synthesis.
 
 <!-- * **AI for Earth Science**: Larger earth foundation model, Multi-modal weather generation and understanding<br> 
 * **Computer Vision**: Multi-modal image generation, Image restoration and super-resolution -->
