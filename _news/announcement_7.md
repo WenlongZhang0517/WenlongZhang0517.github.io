@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One papers were accepted by **NeurIPS**.
+One papers were accepted by **NeurIPS** in September 2023. One papers were accepted by **ICLR** and was selected for an Spotlight presentation in December 2023.
