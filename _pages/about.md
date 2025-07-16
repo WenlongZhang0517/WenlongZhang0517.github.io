@@ -28,8 +28,9 @@ I am a Young Researcher with [OpenScienceLab](https://science.openxlab.org.cn/) 
 I am passionate about exploring advanced AGI model to address challenges across large-scale scientific scenario. Recently, my primary areas of focus include:
 - `Large-scale scientific evaluation`: Constructing large-scale multidisciplinary (e.g., physics, chemistry, earth, life, and materials science) evaluation benchmarks for multimodal large models and multi-agent systems..
 - `Unified Foundation Model for Science`: Developing general foundational model for the unified representation and processing of large-scale scientific data and tasks.
-<!-- - `Multimodel learning`: Building scientifical multimodal data and model for knowledge understanding.
-- `LLM-based multi-agent`: Creating efficient LLM-based multi-agent system for knowledge discovery. -->
+
+<!-- <!-- - `Multimodel learning`: Building scientifical multimodal data and model for knowledge understanding. -->
+<!-- - `LLM-based multi-agent`: Creating efficient LLM-based multi-agent system for knowledge discovery. --> 
 
 <!-- * **AI for Earth Science**: Larger earth foundation model, Multi-modal weather generation and understanding<br> 
 * **Computer Vision**: Multi-modal image generation, Image restoration and super-resolution -->
