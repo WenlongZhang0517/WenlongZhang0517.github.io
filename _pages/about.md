@@ -19,16 +19,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page PhD student in CS, **The Hong Kong Polytechnic University**<br> 
 ---
 
-Young Researcher in AI4Science, **Shanghai AI Lab**<br>
+Young Researcher of AI for Science Center, **Shanghai AI Laboratory**<br>
 zhangwenlong@pjlab.org.cn<br>
 [Google scholar](https://scholar.google.com.hk/citations?user=UnMImiUAAAAJ&hl=zh-CN) | [Github](https://github.com/WenlongZhang0517) | [Researchgate](https://www.researchgate.net/profile/Wenlong-Zhang-26)
 
-I am a Young Researcher with [OpenScienceLab](https://science.openxlab.org.cn/) at Shanghai AI Lab, working with Prof. [Wanli Ouyang](https://wlouyang.github.io/) and Prof. [Lei Bai](http://leibai.site/). Before that, I got the PhD degree from Hong Kong Polytechnic University, working with Prof. [Xiao-Ming Wu](http://www4.comp.polyu.edu.hk/~csxmwu/). I also interned at [XPixel group](http://xpixel.group/) in Shanghai AI Lab and SIAT-CAS, working with Prof. [Chao Dong](https://scholar.google.com/citations?hl=zh-CN&user=OSDCB0UAAAAJ) and Prof. [Yu Qiao](http://mmlab.siat.ac.cn/team). In 2018, I got the Master degree from the Beijing Institute of Technology, supervised by Prof. [Weidong Hu](https://ice.bit.edu.cn/szdw/jsfc/895feca632d747dc81769fbaf7be5ef5.htm).
+I am a Young Researcher of Shanghai AI Laboratory, working with Prof. [Wanli Ouyang](https://wlouyang.github.io/) and Prof. [Lei Bai](http://leibai.site/). Before that, I got the PhD degree from Hong Kong Polytechnic University, working with Prof. [Xiao-Ming Wu](http://www4.comp.polyu.edu.hk/~csxmwu/). I also interned at [XPixel group](http://xpixel.group/) in Shanghai AI Laboratory and SIAT-CAS, working with Prof. [Chao Dong](https://scholar.google.com/citations?hl=zh-CN&user=OSDCB0UAAAAJ) and Prof. [Yu Qiao](http://mmlab.siat.ac.cn/team). In 2018, I got the Master degree from the Beijing Institute of Technology, supervised by Prof. [Weidong Hu](https://ice.bit.edu.cn/szdw/jsfc/895feca632d747dc81769fbaf7be5ef5.htm).
 
-I am passionate about exploring advanced AGI model to address challenges across large-scale scientific scenario. Recently, my primary areas of focus include:
-- `Large-scale scientific evaluation`: Constructing large-scale multidisciplinary (e.g., physics, chemistry, earth, life, and materials science) evaluation benchmarks for multimodal large models and multi-agent systems..
-- `Scientific unified foundation model`: Developing general foundational model for the unified representation and processing of large-scale scientific data and tasks.
+I am passionate about exploring advanced AGI model to address challenges across large-scale scientific scenario. 
+Currently, I lead a team engaged in scientific discovery evaluation and the development of open-source platforms. We have launched the [SciPrismax](https://prismax.opencompass.org.cn/) project, which is an evaluation platform for scientific discovery and has proposed the large-scale evaluation benchmark of "Scientists' First Exam." Recently, my primary areas of focus include:
+- `Large-scale scientific evaluation`: Constructing large-scale multidisciplinary evaluation benchmarks for multimodal large models and multi-agent systems..
+- `Post-training algorithm design for large models` Design efficient post-training algorithms to enhance the scientific discovery capabilities of large models.
 - `Data-centric scientific AI`: Synthesis, generation, and evaluation of scientific data based on multimodal large models and multi-agent systems.
+- `Scientific unified foundation model`: Developing general foundational model for the unified understanding and generation of large-scale scientific data and tasks.
 
 <!-- <!-- - `Multimodel learning`: Building scientifical multimodal data and model for knowledge understanding. -->
 <!-- - `LLM-based multi-agent`: Creating efficient LLM-based multi-agent system for knowledge discovery. --> 
