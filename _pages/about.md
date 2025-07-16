@@ -31,7 +31,7 @@ Currently, I lead a team engaged in scientific discovery evaluation and open-sou
 - `Large-scale evaluation`: build broad and expert-validated benchmarks for large models and agents.
 - `Post-training algorithm`: efficient and simple methods that raise scientific reasoning abilities.
 - `Data-centric AI`: synthesis and generation of scientific AI data (e.g., QA and CoT) with large models and agents.
-- `Unified scientific model`: design foundation model for the unified understanding and generation across scientific domains.
+- `Unified scientific model`: design foundation model for unified understanding and generation across scientific domains.
 
 <!-- <!-- - `Multimodel learning`: Building scientifical multimodal data and model for knowledge understanding. -->
 <!-- - `LLM-based multi-agent`: Creating efficient LLM-based multi-agent system for knowledge discovery. --> 
