@@ -27,6 +27,7 @@ I am a Young Researcher of Shanghai AI Laboratory, working with Prof. [Wanli Ouy
 
 <!-- I am passionate about exploring advanced AGI model to address challenges across large-scale scientific scenario.  -->
 
+
 Currently, I lead a team engaged in scientific discovery evaluation and open-source platforms. We have launched the [SciPrismax](https://prismax.opencompass.org.cn/) project along with an associated open-source platform. Recently, my primary areas of focus include:
 - `Large-scale evaluation`: build broad and expert-validated benchmarks for large models and agents.
 - `Post-training algorithm`: efficient and simple methods that raise scientific reasoning abilities.
