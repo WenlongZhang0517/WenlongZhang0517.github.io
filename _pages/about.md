@@ -39,6 +39,11 @@ Recent Research Highlights:
   - Multidisciplinary benchmarking: [Scientists’ First Exam](https://arxiv.org/abs/2506.10521)(Preprint)
   - Single-disciplinary benchmarking: [OmniEarth-Bench](https://arxiv.org/abs/2505.23522)(Preprint), [PhysUniBench](https://arxiv.org/abs/2506.17667)(Preprint)
 
+- `Data-centric AI`:
+  - Scientific data extraction: [Manalyzer](https://arxiv.org/abs/2505.20310)(Preprint)
+
+- `Unified scientific model`:
+  - Weather unified model: [WeatherGFM](https://arxiv.org/abs/2411.05420)(ICLR2025)
 
 
 <!-- <!-- - `Multimodel learning`: Building scientifical multimodal data and model for knowledge understanding. -->
