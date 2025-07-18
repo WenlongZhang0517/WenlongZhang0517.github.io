@@ -36,7 +36,8 @@ Currently, I lead a team engaged in scientific discovery evaluation and open-sou
 Recent Research Highlights:
 
 - `Large-scale evaluation`: 
- - [Scientists’ First Exam](https://arxiv.org/abs/2506.10521)(Preprint)
+  - Multidisciplinary benchmarking: [Scientists’ First Exam](https://arxiv.org/abs/2506.10521)(Preprint)
+  - Single-disciplinary benchmarking: [OmniEarth-Bench](https://arxiv.org/abs/2505.23522)(Preprint), [PhysUniBench](https://arxiv.org/abs/2506.17667)(Preprint)
 
 
 
