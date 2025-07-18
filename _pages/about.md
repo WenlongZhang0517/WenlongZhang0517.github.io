@@ -37,17 +37,17 @@ Recent Research Highlights:
 
 - `Large-scale evaluation`: 
   - Multidisciplinary benchmarking: [Scientists’ First Exam](https://arxiv.org/abs/2506.10521)(Preprint)
-  - Single-disciplinary benchmarking: [OmniEarth-Bench](https://arxiv.org/abs/2505.23522)(Preprint), [MSEarth](https://arxiv.org/abs/2505.20740)(Preprint),  [PhysUniBench](https://arxiv.org/abs/2506.17667)(Preprint)
+  - Single-disciplinary benchmarking: [OmniEarth-Bench](https://arxiv.org/abs/2505.23522)(Preprint), [MSEarth](https://arxiv.org/abs/2505.20740)(Preprint), [EarthSE](https://arxiv.org/abs/2505.17139)(Preprint), [PhysUniBench](https://arxiv.org/abs/2506.17667)(Preprint)
 
 - `Post-training algorithm`:
-  - Reinforcement learning for weather: [Align-DA](https://arxiv.org/abs/2505.22008)
+  - Reinforcement learning for weather: [Align-DA](https://arxiv.org/abs/2505.22008)(Preprint)
 
 - `Data-centric AI`:
   - Scientific data extraction: [Manalyzer](https://arxiv.org/abs/2505.20310)(Preprint)
 
 - `Unified scientific model`:
   - Weather unified model: [WeatherGFM](https://arxiv.org/abs/2411.05420)(ICLR2025)
-  - Vision unified model: [Lumina-omnilv](https://arxiv.org/abs/2504.04903)
+  - Vision unified model: [Lumina-omnilv](https://arxiv.org/abs/2504.04903)(Preprint), [Decouple to Reconstruct](https://arxiv.org/abs/2503.12764)(ICCV2025)
 
 
 
