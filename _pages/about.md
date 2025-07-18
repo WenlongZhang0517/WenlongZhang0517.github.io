@@ -29,7 +29,7 @@ I am a Young Researcher of Shanghai AI Laboratory, working with Prof. [Wanli Ouy
 
 Currently, I lead a team engaged in scientific discovery evaluation and open-source platforms. We have launched the [SciPrismax](https://prismax.opencompass.org.cn/) project. Recently, my primary areas of focus include:
 - `Large-scale evaluation`: build broad and expert-validated benchmarks for large models and agents.
-- `Post-training algorithm`: efficient and simple methods that raise scientific reasoning abilities.
+- `Post-training algorithm`: efficient and simple methods that raise scientific multi-modal reasoning.
 - `Data-centric AI`: synthesis and generation of scientific AI data (e.g., QA and CoT) with large models and agents.
 - `Unified scientific model`: design foundation model for unified understanding and generation across scientific domains.
 
