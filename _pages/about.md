@@ -33,6 +33,13 @@ Currently, I lead a team engaged in scientific discovery evaluation and open-sou
 - `Data-centric AI`: synthesis and generation of scientific AI data (e.g., QA and CoT) with large models and agents.
 - `Unified scientific model`: design foundation model for unified understanding and generation across scientific domains.
 
+Recent Research Highlights:
+
+- `Large-scale evaluation`: 
+- - [Scientists’ First Exam](https://arxiv.org/abs/2506.10521)(Preprint)
+
+
+
 <!-- <!-- - `Multimodel learning`: Building scientifical multimodal data and model for knowledge understanding. -->
 <!-- - `LLM-based multi-agent`: Creating efficient LLM-based multi-agent system for knowledge discovery. --> 
 
