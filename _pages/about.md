@@ -49,8 +49,6 @@ Recent Research Highlights:
   - Weather unified model: [WeatherGFM](https://arxiv.org/abs/2411.05420)(ICLR2025)
   - Vision unified model: [Lumina-omnilv](https://arxiv.org/abs/2504.04903)(Preprint), [Decouple to Reconstruct](https://arxiv.org/abs/2503.12764)(ICCV2025)
 
-
-
 <!-- <!-- - `Multimodel learning`: Building scientifical multimodal data and model for knowledge understanding. -->
 <!-- - `LLM-based multi-agent`: Creating efficient LLM-based multi-agent system for knowledge discovery. --> 
 
