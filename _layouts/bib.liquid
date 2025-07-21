@@ -213,6 +213,9 @@
       {% if entry.synced %}
         <a href="{{ entry.synced }}" class="btn btn-sm z-depth-0" role="button">Synced</a>
       {% endif %}
+      {% if entry.talk %}
+        <a href="{{ entry.talk }}" class="btn btn-sm z-depth-0" role="button">Talk</a>
+      {% endif %}
     </div>
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = entry.altmetric or entry.doi or  entry.eprint or entry.pmid or entry.isbn %}
