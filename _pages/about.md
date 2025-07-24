@@ -38,7 +38,8 @@ Recent Research Highlights:
 - `Large-scale evaluation`: 
   - Multidisciplinary benchmarking: [Scientists’ First Exam](https://arxiv.org/abs/2506.10521)(Preprint)
   - Single-disciplinary benchmarking: [OmniEarth-Bench](https://arxiv.org/abs/2505.23522)(Preprint), [MSEarth](https://arxiv.org/abs/2505.20740)(Preprint), [EarthSE](https://arxiv.org/abs/2505.17139)(Preprint), [PhysUniBench](https://arxiv.org/abs/2506.17667)(Preprint)
-
+  - GUI benchmarking: [VeriGUI](https://huggingface.co/datasets/2077AIDataFoundation/VeriGUI)
+  
 - `Post-training algorithm`:
   - Reinforcement learning for weather: [Align-DA](https://arxiv.org/abs/2505.22008)(Preprint)
 
