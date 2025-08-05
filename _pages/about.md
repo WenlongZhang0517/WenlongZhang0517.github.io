@@ -28,14 +28,14 @@ I am a Young Researcher of Shanghai AI Laboratory, working with Prof. [Wanli Ouy
 <!-- I am passionate about exploring advanced AGI model to address challenges across large-scale scientific scenario.  -->
 
 Currently, I lead a team engaged in scientific discovery evaluation and open-source platforms. We have launched the [SciPrismax](https://prismax.opencompass.org.cn/) project. Recently, my primary areas of focus include:
-- `Large-scale evaluation`: build broad scientific benchmarks for large models and agents.
+- `Large-scale evaluation and oversight`: how can we define, evaluate, and utilize the key capabilities of large models and agents in scientific discovery?
 - `Post-training algorithm`: efficient and simple methods that raise scientific multi-modal reasoning.
-- `Data-centric AI`: synthesis and generation of scientific AI data (e.g., QA and CoT) with large models and agents.
+- `Human-AI collaboration for Science`: how can we align scientific multimodal understanding and reasoning through the knowledge of scientists?
 - `Unified scientific model`: design foundation model for unified understanding and generation across scientific domains.
 
 Recent Research Highlights:
 
-- `Large-scale evaluation`: 
+- `Large-scale evaluation and oversight`: 
   - Multidisciplinary benchmarking: [Scientists’ First Exam](https://arxiv.org/abs/2506.10521)(Preprint)
   - Single-disciplinary benchmarking: [OmniEarth-Bench](https://arxiv.org/abs/2505.23522)(Preprint), [MSEarth](https://arxiv.org/abs/2505.20740)(Preprint), [EarthSE](https://arxiv.org/abs/2505.17139)(Preprint), [PhysUniBench](https://arxiv.org/abs/2506.17667)(Preprint)
   - GUI benchmarking: [VeriGUI](https://github.com/VeriGUI-Team/VeriGUI/blob/main/paper.pdf)(Preprint)
@@ -43,7 +43,7 @@ Recent Research Highlights:
 - `Post-training algorithm`:
   - Reinforcement learning for weather: [Align-DA](https://arxiv.org/abs/2505.22008)(Preprint)
 
-- `Data-centric AI`:
+- `Human-AI collaboration`:
   - Scientific data extraction: [Manalyzer](https://arxiv.org/abs/2505.20310)(Preprint)
 
 - `Unified scientific model`:
