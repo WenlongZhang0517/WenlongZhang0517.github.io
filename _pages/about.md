@@ -29,8 +29,8 @@ I am a Young Researcher of Shanghai AI Laboratory, working with Prof. [Wanli Ouy
 
 Currently, I lead a team engaged in scientific discovery evaluation and open-source platforms. We have launched the [SciPrismax](https://prismax.opencompass.org.cn/) project. Recently, my primary areas of focus include:
 - `Large-scale evaluation`: how can we define, evaluate, and utilize the key capabilities of large models and agents in scientific discovery?
-- `Post-training algorithm`: efficient and simple methods that raise scientific multi-modal reasoning.
-- `Human-AI collaboration for Science`: how can we align scientific multimodal understanding and reasoning through the knowledge of scientists?
+- `Post-training algorithm`: how can we achieve multimodal generation and reasoning with scientific preferences through reinforcement learning and tool call?
+- `Human-AI collaboration for science`: how can we align scientific multimodal understanding and reasoning through the knowledge of scientists?
 - `Unified scientific model`: design foundation model for unified understanding and generation across scientific domains.
 
 Recent Research Highlights:
@@ -40,7 +40,7 @@ Recent Research Highlights:
   - Single-disciplinary benchmarking: [OmniEarth-Bench](https://arxiv.org/abs/2505.23522)(Preprint), [MSEarth](https://arxiv.org/abs/2505.20740)(Preprint), [EarthSE](https://arxiv.org/abs/2505.17139)(Preprint), [PhysUniBench](https://arxiv.org/abs/2506.17667)(Preprint)
   - GUI benchmarking: [VeriGUI](https://github.com/VeriGUI-Team/VeriGUI/blob/main/paper.pdf)(Preprint)
 
-- `Post-training algorithm`:
+- `Muli-model learning and Post-training algorithm`:
   - Reinforcement learning for weather: [Align-DA](https://arxiv.org/abs/2505.22008)(Preprint)
 
 - `Human-AI collaboration`:
