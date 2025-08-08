@@ -45,6 +45,7 @@ Recent Research Highlights:
 
 - `Human-AI collaboration`:
   - Agents for Meta-analysis: [Manalyzer](https://arxiv.org/abs/2505.20310)(Preprint)
+  - Multi-model learning for weather: [RadarQA]
 
 - `Scientific foundation model`:
   - Weather unified model: [WeatherGFM](https://arxiv.org/abs/2411.05420)(ICLR2025)
