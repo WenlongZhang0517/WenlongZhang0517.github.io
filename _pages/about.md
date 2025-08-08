@@ -28,10 +28,10 @@ I am a Young Researcher of Shanghai AI Laboratory, working with Prof. [Wanli Ouy
 <!-- I am passionate about exploring advanced AGI model to address challenges across large-scale scientific scenario.  -->
 
 Currently, I lead a team engaged in scientific discovery evaluation and open-source platforms. We have launched the [SciPrismax](https://prismax.opencompass.org.cn/) project. Recently, my primary areas of focus include:
-- `Large-scale evaluation`: how can we define, evaluate, and utilize the key capabilities of large models and agents in scientific discovery?
-- `Post-training algorithm`: how can we achieve multimodal generation and reasoning with scientific preferences through reinforcement learning and tool call?
-- `Human-AI collaboration for science`: how can we align scientific multimodal understanding and reasoning through the knowledge of scientists?
-- `Unified scientific model`: design foundation model for unified understanding and generation across scientific domains.
+- `Large-scale evaluation`: How can we define, evaluate, and utilize the key capabilities of large models and agents in scientific discovery?
+- `Post-training algorithm`: How can we achieve multimodal generation and reasoning with scientific preferences through reinforcement learning and tool call?
+- `Human-AI collaboration`: How can we align scientific multimodal understanding and reasoning through the knowledge of scientists?
+- `Scientific foundation model`: How can we better achieve understanding, generation, and reasoning in the field of science?
 
 Recent Research Highlights:
 
@@ -40,13 +40,13 @@ Recent Research Highlights:
   - Single-disciplinary benchmarking: [OmniEarth-Bench](https://arxiv.org/abs/2505.23522)(Preprint), [MSEarth](https://arxiv.org/abs/2505.20740)(Preprint), [EarthSE](https://arxiv.org/abs/2505.17139)(Preprint), [PhysUniBench](https://arxiv.org/abs/2506.17667)(Preprint)
   - GUI benchmarking: [VeriGUI](https://github.com/VeriGUI-Team/VeriGUI/blob/main/paper.pdf)(Preprint)
 
-- `Muli-model learning and Post-training algorithm`:
+- `Post-training algorithm`:
   - Reinforcement learning for weather: [Align-DA](https://arxiv.org/abs/2505.22008)(Preprint)
 
 - `Human-AI collaboration`:
   - Agents for Meta-analysis: [Manalyzer](https://arxiv.org/abs/2505.20310)(Preprint)
 
-- `Unified scientific model`:
+- `Scientific foundation model`:
   - Weather unified model: [WeatherGFM](https://arxiv.org/abs/2411.05420)(ICLR2025)
   - Vision unified model: [Lumina-omnilv](https://arxiv.org/abs/2504.04903)(Preprint), [Decouple to Reconstruct](https://arxiv.org/abs/2503.12764)(ICCV2025)
 
