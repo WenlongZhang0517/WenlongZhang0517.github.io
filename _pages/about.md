@@ -29,8 +29,8 @@ I am a Young Researcher of Shanghai AI Laboratory, working with Prof. [Wanli Ouy
 
 Currently, I lead a team engaged in scientific discovery evaluation and open-source platforms. We have launched the [SciPrismax](https://prismax.opencompass.org.cn/) project. Recently, my primary areas of focus include:
 - `Large-scale evaluation`: How can we define, evaluate, and utilize the key capabilities of large models and agents in scientific discovery?
-- `Post-training algorithm`: How can we achieve multimodal generation and reasoning with scientific preferences through reinforcement learning and tool call?
-- `Human-AI collaboration`: How can we align scientific multimodal understanding and reasoning through the knowledge of scientists?
+- `Post-training algorithm`: How can we achieve multimodal understanding and reasoning with scientific preferences through reinforcement learning and tool call?
+- `Human-AI collaboration`: How can we align the knowledge of scientists with foundational models and agents?
 - `Scientific foundation model`: How can we better achieve understanding, generation, and reasoning in the field of science?
 
 Recent Research Highlights:
