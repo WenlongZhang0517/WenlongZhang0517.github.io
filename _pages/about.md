@@ -42,11 +42,12 @@ Recent Research Highlights:
 
 - `Post-training algorithm`:
   - Reinforcement learning for weather: [Align-DA](https://arxiv.org/abs/2505.22008)(Preprint)
+  - Multi-model learning for weather: [RadarQA]
 
 - `Human-AI collaboration`:
   - Agents for Meta-analysis: [Manalyzer](https://arxiv.org/abs/2505.20310)(Preprint)
-  - Multi-model learning for weather: [RadarQA]
-
+  - Agents for Earht Science: [EarthLink](https://arxiv.org/abs/2507.17311)(Preprint)
+  
 - `Scientific foundation model`:
   - Weather unified model: [WeatherGFM](https://arxiv.org/abs/2411.05420)(ICLR2025)
   - Vision unified model: [Lumina-omnilv](https://arxiv.org/abs/2504.04903)(Preprint), [Decouple to Reconstruct](https://arxiv.org/abs/2503.12764)(ICCV2025)
