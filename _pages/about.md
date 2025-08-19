@@ -36,21 +36,22 @@ Currently, I lead a team engaged in scientific discovery evaluation and open-sou
 Recent Research Highlights:
 
 - `Large-scale evaluation`: 
-  - Multidisciplinary benchmarking: [Scientists’ First Exam](https://arxiv.org/abs/2506.10521)(Preprint)
-  - Single-disciplinary benchmarking: [OmniEarth-Bench](https://arxiv.org/abs/2505.23522)(Preprint), [MSEarth](https://arxiv.org/abs/2505.20740)(Preprint), [EarthSE](https://arxiv.org/abs/2505.17139)(Preprint), [PhysUniBench](https://arxiv.org/abs/2506.17667)(Preprint)
-  - GUI benchmarking: [VeriGUI](https://arxiv.org/pdf/2508.04026)(Preprint)
+  - Multi-modal understanding: [Scientists’ First Exam](https://arxiv.org/abs/2506.10521)(Preprint), [MSEarth](https://arxiv.org/abs/2505.20740)(Preprint), [OmniEarth-Bench](https://arxiv.org/abs/2505.23522)(Preprint)
+  - Multi-modal reasoning: [EarthSE](https://arxiv.org/abs/2505.17139)(Preprint), [PhysUniBench](https://arxiv.org/abs/2506.17667)(Preprint)
+  - GUI operation: [VeriGUI](https://arxiv.org/pdf/2508.04026)(Preprint)
 
 - `Post-training algorithm`:
   - Reinforcement learning for weather: [Align-DA](https://arxiv.org/abs/2505.22008)(Preprint)
-  - Multi-model learning for weather: [RadarQA]
+  - Multi-modal learning for weather: [RadarQA](https://arxiv.org/pdf/2508.12291)(Preprint)
 
 - `Human-AI collaboration`:
-  - Agents for Meta-analysis: [Manalyzer](https://arxiv.org/abs/2505.20310)(Preprint)
-  - Agents for Earht Science: [EarthLink](https://arxiv.org/abs/2507.17311)(Preprint)
+  - Agents for meta-analysis: [Manalyzer](https://arxiv.org/abs/2505.20310)(Preprint)
+  - Agents for Earht scientific discovery: [EarthLink](https://arxiv.org/abs/2507.17311)(Preprint)
   
 - `Scientific foundation model`:
   - Weather unified model: [WeatherGFM](https://arxiv.org/abs/2411.05420)(ICLR2025)
-  - Vision unified model: [Lumina-omnilv](https://arxiv.org/abs/2504.04903)(Preprint), [Decouple to Reconstruct](https://arxiv.org/abs/2503.12764)(ICCV2025)
+  - Vision unified model: [Lumina-omnilv](https://arxiv.org/abs/2504.04903)(Preprint)
+  - Vision representation: [Decouple to Reconstruct](https://arxiv.org/abs/2503.12764)(ICCV2025)
 
 <!-- <!-- - `Multimodel learning`: Building scientifical multimodal data and model for knowledge understanding. -->
 <!-- - `LLM-based multi-agent`: Creating efficient LLM-based multi-agent system for knowledge discovery. --> 
