@@ -46,7 +46,7 @@ Recent Research Highlights:
 
 - `Human-AI collaboration`:
   - Agents for meta-analysis: [Manalyzer](https://arxiv.org/abs/2505.20310)(Preprint)
-  - Agents for Earht scientific discovery: [EarthLink](https://arxiv.org/abs/2507.17311)(Preprint)
+  - Agents for Earth scientific discovery: [EarthLink](https://arxiv.org/abs/2507.17311)(Preprint)
   
 - `Scientific foundation model`:
   - Weather unified model: [WeatherGFM](https://arxiv.org/abs/2411.05420)(ICLR2025)
