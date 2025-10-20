@@ -59,4 +59,5 @@ Recent Research Highlights:
 <!-- * **AI for Earth Science**: Larger earth foundation model, Multi-modal weather generation and understanding<br> 
 * **Computer Vision**: Multi-modal image generation, Image restoration and super-resolution -->
 
+
 If you are interested in the above research topics and would like to join us with **[Young Researcher](xx)**,  **[Research Intern](xx)** or **[Joint Training Ph.D. Project](https://www.shlab.org.cn/enrollment)** at Shanghai AI Laboratory, feel free to drop me an [email](zhangwenlong@pjlab.org.cn) zhangwenlong@pjlab.org.cn. Students with good foundations in AI and science background are appreciated.
