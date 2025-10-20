@@ -36,13 +36,13 @@ Currently, I lead a team engaged in scientific discovery evaluation and open-sou
 Recent Research Highlights:
 
 - `Large-scale evaluation`: 
-  - Multi-modal understanding: [Scientists’ First Exam](https://arxiv.org/abs/2506.10521)(Preprint), [MSEarth](https://arxiv.org/abs/2505.20740)(Preprint), [OmniEarth-Bench](https://arxiv.org/abs/2505.23522)(Preprint)
+  - Multi-modal understanding: [Scientists’ First Exam](https://arxiv.org/abs/2506.10521)(NeurIPS), [MSEarth](https://arxiv.org/abs/2505.20740)(Preprint), [OmniEarth-Bench](https://arxiv.org/abs/2505.23522)(Preprint)
   - Multi-modal reasoning: [EarthSE](https://arxiv.org/abs/2505.17139)(Preprint), [PhysUniBench](https://arxiv.org/abs/2506.17667)(Preprint)
   - GUI operation: [VeriGUI](https://arxiv.org/pdf/2508.04026)(Preprint)
 
 - `Post-training algorithm`:
-  - Reinforcement learning for weather: [Align-DA](https://arxiv.org/abs/2505.22008)(Preprint)
-  - Multi-modal learning for weather: [RadarQA](https://arxiv.org/pdf/2508.12291)(Preprint)
+  - Reinforcement learning for weather: [Align-DA](https://arxiv.org/abs/2505.22008)(NeurIPS)
+  - Multi-modal learning for weather: [RadarQA](https://arxiv.org/pdf/2508.12291)(NeurIPS)
 
 - `Human-AI collaboration`:
   - Agents for meta-analysis: [Manalyzer](https://arxiv.org/abs/2505.20310)(Preprint)
