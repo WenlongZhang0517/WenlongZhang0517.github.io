@@ -35,24 +35,20 @@ Currently, I lead a team engaged in scientific discovery evaluation and open-sou
 
 Recent Research Highlights:
 
-- `Large-scale evaluation`: 
+- `Large-scale scientific alignment and evaluation`: 
   - Multi-modal understanding: [Scientists’ First Exam](https://arxiv.org/abs/2506.10521)(NeurIPS), [MSEarth](https://arxiv.org/abs/2505.20740)(Preprint), [OmniEarth-Bench](https://arxiv.org/abs/2505.23522)(Preprint)
-  - Multi-modal reasoning: [EarthSE](https://arxiv.org/abs/2505.17139)(Preprint), [PhysUniBench](https://arxiv.org/abs/2506.17667)(Preprint)
-  - GUI operation: [VeriGUI](https://arxiv.org/pdf/2508.04026)(Preprint)
+  - Multi-modal reasoning: [PhysUniBench](https://arxiv.org/abs/2506.17667)(Preprint)
+  - Scientific reasoning: [EarthSE](https://arxiv.org/abs/2505.17139)(Preprint)
+  - GUI and tool calling: [VeriGUI](https://arxiv.org/pdf/2508.04026)(Preprint), [Earth-Agent](https://arxiv.org/pdf/2509.23141)(Preprint)
 
-- `Post-training algorithm`:
+- `Post-training and Reward Alignment`:
   - Reinforcement learning for weather: [Align-DA](https://arxiv.org/abs/2505.22008)(NeurIPS)
   - Multi-modal learning for weather: [RadarQA](https://arxiv.org/pdf/2508.12291)(NeurIPS)
 
-- `Human-AI collaboration`:
-  - Agents for meta-analysis: [Manalyzer](https://arxiv.org/abs/2505.20310)(Preprint)
-  - Agents for Earth scientific discovery: [EarthLink](https://arxiv.org/abs/2507.17311)(Preprint)
-  
 - `Scientific foundation model`:
+  - Scientific foundation model: [Intern-s1](https://arxiv.org/pdf/2508.15763)(Preprint), [SciReasoner](https://arxiv.org/pdf/2509.21320?)(Preprint)
   - Weather unified model: [WeatherGFM](https://arxiv.org/abs/2411.05420)(ICLR2025)
-  - Vision unified model: [Lumina-omnilv](https://arxiv.org/abs/2504.04903)(Preprint)
-  - Vision representation: [Decouple to Reconstruct](https://arxiv.org/abs/2503.12764)(ICCV2025)
-
+  - Vision representation and unified model: [Decouple to Reconstruct](https://arxiv.org/abs/2503.12764)(ICCV2025), [Lumina-omnilv](https://arxiv.org/abs/2504.04903)(Preprint)
 <!-- <!-- - `Multimodel learning`: Building scientifical multimodal data and model for knowledge understanding. -->
 <!-- - `LLM-based multi-agent`: Creating efficient LLM-based multi-agent system for knowledge discovery. --> 
 
