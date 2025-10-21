@@ -28,10 +28,9 @@ I am a Young Researcher of Shanghai AI Laboratory, working with Prof. [Wanli Ouy
 <!-- I am passionate about exploring advanced AGI model to address challenges across large-scale scientific scenario.  -->
 
 Currently, I lead a team engaged in scientific discovery evaluation and open-source platforms. We have launched the [SciPrismax](https://prismax.opencompass.org.cn/) project. Recently, my primary areas of focus include:
-- `Large-scale evaluation`: How do we define, evaluate, and utilize the key capabilities of large models and agents in scientific discovery?
-- `Post-training algorithm`: How do we enhance multimodal understanding and reasoning with scientific preferences through reinforcement learning and tool call?
-- `Human-AI collaboration`: How do we align the knowledge of scientists with foundational models and agents?
-- `Scientific foundation model`: How do we formulate understanding, generation, and reasoning into a unified model for science?
+- `Large-scale scientific alignment and evaluation`: How do we define, evaluate, and align the knowledge of scientists with large models and agents in scientific discovery?
+- `Post-training and reward modeling`: How do we enhance multimodal understanding and reasoning with scientific preferences through reward modeling?
+- `Scientific foundation model`: How do we formulate understanding, generation, and reasoning into a unified model for scientific discovery?
 
 Recent Research Highlights:
 
@@ -41,7 +40,7 @@ Recent Research Highlights:
   - Scientific reasoning: [EarthSE](https://arxiv.org/abs/2505.17139)(Preprint)
   - GUI and tool calling: [VeriGUI](https://arxiv.org/pdf/2508.04026)(Preprint), [Earth-Agent](https://arxiv.org/pdf/2509.23141)(Preprint)
 
-- `Post-training and Reward Alignment`:
+- `Post-training and reward Alignment`:
   - Reinforcement learning for weather: [Align-DA](https://arxiv.org/abs/2505.22008)(NeurIPS)
   - Multi-modal learning for weather: [RadarQA](https://arxiv.org/pdf/2508.12291)(NeurIPS)
 
