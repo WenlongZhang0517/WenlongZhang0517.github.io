@@ -40,7 +40,7 @@ Recent Research Highlights:
   - Scientific reasoning: [EarthSE](https://arxiv.org/abs/2505.17139)(Preprint)
   - GUI and tool calling: [VeriGUI](https://arxiv.org/pdf/2508.04026)(Preprint), [Earth-Agent](https://arxiv.org/pdf/2509.23141)(Preprint)
 
-- `Post-training and reward Alignment`:
+- `Post-training and reward alignment`:
   - Reinforcement learning for weather: [Align-DA](https://arxiv.org/abs/2505.22008)(NeurIPS)
   - Multi-modal learning for weather: [RadarQA](https://arxiv.org/pdf/2508.12291)(NeurIPS)
 
