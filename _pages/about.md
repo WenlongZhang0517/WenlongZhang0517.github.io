@@ -37,7 +37,7 @@ Recent Research Highlights:
 - `Large-scale scientific alignment and evaluation`: 
   - Multi-modal understanding: [Scientists’ First Exam](https://arxiv.org/abs/2506.10521)(NeurIPS), [MSEarth](https://arxiv.org/abs/2505.20740)(Preprint), [OmniEarth-Bench](https://arxiv.org/abs/2505.23522)(Preprint)
   - Multi-modal reasoning: [PhysUniBench](https://arxiv.org/abs/2506.17667)(Preprint)
-  - Scientific reasoning: [EarthSE](https://arxiv.org/abs/2505.17139)(Preprint)
+  - Scientific reasoning: [EarthSE](https://arxiv.org/abs/2505.17139)(ICLR)
   - GUI and tool calling: [VeriGUI](https://arxiv.org/pdf/2508.04026)(Preprint), [Earth-Agent](https://arxiv.org/pdf/2509.23141)(Preprint)
 
 - `Post-training and reward alignment`:
