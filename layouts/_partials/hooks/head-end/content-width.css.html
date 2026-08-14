@@ -1,0 +1,31 @@
+<style>
+  /* Give the academic content more room on desktop while keeping mobile gutters. */
+  @media (min-width: 1024px) {
+    main .container,
+    main [class~="max-w-3xl"],
+    main [class~="max-w-4xl"],
+    main [class~="max-w-5xl"],
+    main [class~="max-w-6xl"],
+    main [class~="max-w-7xl"],
+    main [class~="max-w-screen-lg"],
+    main [class~="max-w-screen-xl"] {
+      max-width: 1440px !important;
+    }
+  }
+
+  /* Tailwind Typography defaults to 65ch, which makes long academic text wrap too early. */
+  main .prose {
+    max-width: 90ch;
+  }
+
+  /* The homepage biography should use the full width of its grid column. */
+  .resume-biography .bio-summary {
+    max-width: none;
+    width: 100%;
+  }
+
+  .resume-biography .bio-summary .bio-text {
+    max-width: none;
+    width: 100%;
+  }
+</style>

@@ -1,0 +1,73 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Wenlong Zhang
+  given: Wenlong
+  family: Zhang
+  alternate: ''
+  pronunciation: ''
+  pronouns: ''
+status:
+  icon: ''
+role: |-
+  Young Researcher<br>
+  Agent Center
+bio: |
+  I am a Young Researcher of Shanghai AI Laboratory, working with Prof. [Bo Zhang](https://bobrown.github.io/boZhang.github.io/), Prof. [Wanli Ouyang](https://wlouyang.github.io/) and Prof. [Lei Bai](http://leibai.site/). Before that, I got the PhD degree from Hong Kong Polytechnic University, working with Prof. [Xiao-Ming Wu](http://www4.comp.polyu.edu.hk/~csxmwu/). I also interned at [XPixel group](http://xpixel.group/) in Shanghai AI Laboratory and SIAT-CAS, working with Prof. [Chao Dong](https://scholar.google.com/citations?hl=zh-CN&user=OSDCB0UAAAAJ) and Prof. [Yu Qiao](http://mmlab.siat.ac.cn/team). In 2018, I got the Master degree from the Beijing Institute of Technology, supervised by Prof. [Weidong Hu](https://ice.bit.edu.cn/szdw/jsfc/895feca632d747dc81769fbaf7be5ef5.htm).
+
+  Currently, I lead a team engaged in Agent model Alignment, Post-training and Evaluation. Recently, my primary areas of focus include:
+
+  - **Long-horizon agent evaluation:** How do we formulate the workflow of scientific and real-world scenarios with agent models into a unified benchmark?
+  - **Agent model alignment:** How can we align agent models with human preferences, scientific objectives, and domain constraints while ensuring reliability, generalization, and controllability?
+  - **Agent model post-training:** How can we develop scalable data and optimization strategies to improve the planning, reasoning, tool use, and long-horizon decision-making capabilities of agent models?
+affiliations:
+  - name: Shanghai AI Laboratory
+    url: https://www.shlab.org.cn/
+avatar: me.jpg
+links:
+  - icon: at-symbol
+    url: mailto:zhangwenlong@pjlab.org.cn
+    label: E-mail Wenlong
+  - icon: brands/github
+    url: https://github.com/WenlongZhang0517
+    label: GitHub
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/wenlong-zhang-338793188/
+    label: LinkedIn
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=UnMImiUAAAAJ
+    label: Google Scholar
+  - icon: brands/researchgate
+    url: https://www.researchgate.net/profile/Wenlong-Zhang-26
+    label: ResearchGate
+experience:
+  - role: Young Researcher
+    org: Agent Center, Shanghai AI Laboratory
+    summary: |
+      Lead a team working on agent model alignment, post-training, and evaluation, with a focus on scientific and real-world agent workflows.
+  - role: Research Intern
+    org: XPixel Group, Shanghai AI Laboratory
+    summary: |
+      Worked with Prof. Chao Dong on image restoration and low-level vision.
+  - role: Research Intern
+    org: SIAT-CAS
+    summary: |
+      Worked with Prof. Yu Qiao on computer vision and multimodal learning.
+skills:
+  - name: Research areas
+    items:
+      - label: AI for Science
+        level: 5
+      - label: Multimodal evaluation
+        level: 5
+      - label: Foundation models and agents
+        level: 5
+  - name: Methods
+    items:
+      - label: Post-training and reward modeling
+        level: 4
+      - label: Weather and Earth science modeling
+        level: 4
+      - label: Computer vision and image restoration
+        level: 4
