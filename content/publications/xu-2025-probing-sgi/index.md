@@ -1,0 +1,122 @@
+---
+title: Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows
+date: '2025-01-01'
+publishDate: '2026-08-13T02:57:40.539662Z'
+authors:
+- Wanghan Xu
+- Yuhao Zhou
+- Yifan Zhou
+- Qinglong Cao
+- Shuo Li
+- Jia Bu
+- Bo Liu
+- Yixin Chen
+- Xuming He
+- Xiangyu Zhao
+- Xiang Zhuang
+- Fengxiang Wang
+- Zhiwang Zhou
+- Qiantai Feng
+- Wenxuan Huang
+- Jiaqi Wei
+- Hao Wu
+- Yuejin Yang
+- Guangshuai Wang
+- Sheng Xu
+- Ziyan Huang
+- Xinyao Liu
+- Jiyao Liu
+- Cheng Tang
+- Wei Li
+- Ying Chen
+- Junzhi Ning
+- Pengfei Jiang
+- Chenglong Ma
+- Ye Du
+- Changkai Ji
+- Huihui Xu
+- Ming Hu
+- Jiangbin Zheng
+- Xin Chen
+- Yucheng Wu
+- Feifei Jiang
+- Xi Chen
+- Xiangru Tang
+- Yuchen Fu
+- Yingzhou Lu
+- Yuanyuan Zhang
+- Lihao Sun
+- Chengbo Li
+- Jinzhe Ma
+- Wanhao Liu
+- Yating Liu
+- Kuo-Cheng Wu
+- Shengdu Chai
+- Yizhou Wang
+- Ouwen Zhangjin
+- Chen Tang
+- Shufei Zhang
+- Wenbo Cao
+- Junjie Ren
+- Taoyong Cui
+- Zhouheng Yao
+- Juntao Deng
+- Yijie Sun
+- Feng Liu
+- Wangxu Wei
+- Jingyi Xu
+- Zhangrui Li
+- Junchao Gong
+- Zijie Guo
+- Zhiyu Yao
+- Zaoyu Chen
+- Tianhao Peng
+- Fangchen Yu
+- Bo Zhang
+- Dongzhan Zhou
+- Shixiang Tang
+- Jiaheng Liu
+- Fenghua Ling
+- Yan Lu
+- Yuchen Ren
+- Ben Fei
+- Zhen Zhao
+- Xinyu Gu
+- Rui Su
+- Xiao-Ming Wu
+- Weikang Si
+- Yang Liu
+- Hao Chen
+- Xiangchao Yan
+- Xue Yang
+- Junchi Yan
+- Jiamin Wu
+- Qihao Zheng
+- Chenhui Li
+- Zhiqiang Gao
+- Hao Kong
+- Junjun He
+- Mao Su
+- Tianfan Fu
+- Peng Ye
+- Chunfeng Song
+- Nanqing Dong
+- Yuqiang Li
+- Huazhu Fu
+- Siqi Sun
+- Lijing Cheng
+- Jintai Lin
+- Wanli Ouyang
+- Bowen Zhou
+- Wenlong Zhang
+- Lei Bai
+publication_types:
+- 'paper-conference'
+abstract: ''
+featured: true
+publication:
+  name: '*arXiv*'
+links:
+- type: site
+  url: https://arxiv.org/abs/2512.16969
+---

@@ -1,0 +1,108 @@
+{{- $item := .item -}}
+{{- $resource := partial "functions/get_featured_image.html" $item -}}
+{{- $pub := partial "functions/resolve_publication.html" $item -}}
+{{- $year := $item.Date.Format "2006" -}}
+{{- $number := add (.index | default 0) 1 -}}
+{{- $venue_abbreviations := dict
+  "advances in neural information processing systems" "NeurIPS"
+  "international conference on learning representations" "ICLR"
+  "international conference on machine learning" "ICML"
+  "ieee/cvf conference on computer vision and pattern recognition" "CVPR"
+  "ieee international conference on computer vision" "ICCV"
+  "european conference on computer vision" "ECCV"
+  "annual meeting of the association for computational linguistics" "ACL"
+  "conference on empirical methods in natural language processing" "EMNLP"
+  "aaai conference on artificial intelligence" "AAAI"
+  "international joint conference on artificial intelligence" "IJCAI"
+  "acm international conference on multimedia" "ACM MM"
+-}}
+{{- $venue_label := $pub.display_short -}}
+{{- with $pub.display_short -}}
+  {{- $venue_key := lower (strings.TrimSpace (. | markdownify | plainify)) -}}
+  {{- $venue_label = index $venue_abbreviations $venue_key | default . -}}
+{{- end -}}
+{{- $built_links := partial "functions/build_links" (dict "page" $item "is_list" 1) -}}
+{{- $explore_url := "" -}}
+{{- range $preferred_type := (slice "project" "code" "demo" "site" "preprint" "pdf" "doi") -}}
+  {{- if not $explore_url -}}
+    {{- range $built_links -}}
+      {{- if and (eq .type $preferred_type) .url -}}
+        {{- $explore_url = .url -}}
+        {{- break -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if not $explore_url -}}
+  {{- $explore_url = $item.RelPermalink -}}
+{{- end -}}
+{{- $explore_target := "" -}}
+{{- $explore_scheme := (urls.Parse $explore_url).Scheme -}}
+{{- if in (slice "http" "https") $explore_scheme -}}
+  {{- $explore_target = "target=\"_blank\" rel=\"noopener\"" -}}
+{{- end -}}
+
+<article class="featured-publication-card">
+  <a href="{{ $item.RelPermalink }}" class="featured-publication-media" aria-label="{{ $item.Title }}">
+    <div class="featured-publication-image-frame">
+      {{- if $resource -}}
+        {{- $original := $resource.Fit "1200x675 Center" -}}
+        {{- $responsive := partial "functions/process_responsive_image.html" (dict
+          "image" $original
+          "mode" "responsive"
+          "sizes" (slice 400 600 800 1200)
+          "formats" (slice "avif" "webp" "jpg")
+        ) -}}
+        <img
+          srcset="{{ $responsive.srcset }}"
+          sizes="(max-width: 768px) 100vw, 34vw"
+          src="{{ $responsive.fallback.RelPermalink }}"
+          width="{{ $original.Width }}"
+          height="{{ $original.Height }}"
+          loading="lazy"
+          decoding="async"
+          alt="{{ $item.Title }} featured image">
+      {{- else -}}
+        <div class="featured-publication-placeholder">
+          <span aria-hidden="true">✦</span>
+          <span>Paper preview</span>
+        </div>
+      {{- end -}}
+    </div>
+
+    {{ with $venue_label }}
+      <span class="featured-publication-venue">{{ . | markdownify }}</span>
+    {{ end }}
+    <span class="featured-publication-year">{{ $year }}</span>
+  </a>
+
+  <div class="featured-publication-content">
+    <div class="featured-publication-kicker">
+      <span>Selected research</span>
+      <span class="featured-publication-number" aria-hidden="true">{{ printf "%02d" $number }}</span>
+    </div>
+
+    <h3 class="featured-publication-title">
+      <a href="{{ $item.RelPermalink }}">
+        {{ $item.Title }}
+      </a>
+    </h3>
+
+    <div class="featured-publication-authors">
+      {{ partial "page_metadata_authors" $item }}
+    </div>
+
+    {{ with $item.Params.abstract }}
+      {{ if . }}
+        <p class="featured-publication-abstract">{{ . }}</p>
+      {{ end }}
+    {{ end }}
+
+    <div class="featured-publication-actions">
+      {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+      <a href="{{ $explore_url | safeURL }}" {{ $explore_target | safeHTMLAttr }} class="featured-publication-details">
+        Explore paper <span aria-hidden="true">↗</span>
+      </a>
+    </div>
+  </div>
+</article>
